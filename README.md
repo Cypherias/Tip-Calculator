@@ -18,7 +18,7 @@ This Python program helps you calculate how much each person should pay for a bi
 <img src="https://i.imgur.com/p6BGJZu.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
 <img src="https://i.imgur.com/qtg1wAu.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
  <p align="center">
- Final Output
+ Final Output:
    <p align="center">
  <img src="https://i.imgur.com/XIevxhI.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
 <br />

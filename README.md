@@ -12,11 +12,11 @@ This Python program helps you calculate how much each person should pay for a bi
 
 <p align="center">
  Run the program: <br/>
-<img src="https://i.imgur.com/V57ExBb.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
+<img src="https://i.imgur.com/S9nJWRF.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
  <p align="center">
  Input the required fields: <br/>
-<img src="https://i.imgur.com/p6BGJZu.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
-<img src="https://i.imgur.com/qtg1wAu.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
+<img src="https://i.imgur.com/xNJwb18.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
+<img src="https://i.imgur.com/xrT29ck.jpg" height="80%" width="80%" alt="Demo of Tip Calculator by Cypherias"/>
  <p align="center">
  Final Output:
    <p align="center">
